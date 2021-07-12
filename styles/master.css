@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container1 {
+  background-color: #1c2b2d;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  height: 100%;
+  position: fixed;
+}
+
+h1 {
+  color: #fff;
+  margin: 3% 5%;
+  font-size: 3rem;
+}
+
+img {
+  width: 50%;
+  padding-bottom: 3%;
+}
+
+.btn {
+  width: 150px;
+}
